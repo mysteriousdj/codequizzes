@@ -10,6 +10,10 @@ To create a Code Quiz to test user's knowledge of coding.
 
 ![alt](/assets/homapage.png)
 
+## Demo
+
+![alt](/assets/Code%20Quiz%20Challenge.gif)
+
 ## Installation
 
 Project is uploaded to [Github](https://github.com/) at the following [repository.](https://github.com/mysteriousdj/codequizzes)
